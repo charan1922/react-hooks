@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/df381d80-f241-4e31-bf8d-28f2c2a22917/deploy-status)](https://app.netlify.com/sites/hooks-practice/deploys)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -7,7 +10,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [https://hooks-practice.netlify.com/](https://hooks-practice.netlify.com/) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
